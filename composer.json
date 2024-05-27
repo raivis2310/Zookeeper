@@ -1,0 +1,6 @@
+{
+    "require": {
+        "filp/whoops": "^2.15",
+        "respect/validation": "^2.2"
+    }
+}
